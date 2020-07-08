@@ -1,0 +1,102 @@
+.container{
+    margin-bottom: 100px;
+}
+.get-started-button{
+    
+
+padding: 12px 36px;
+color: white;
+
+
+
+
+background: #21B573;
+border-radius: 33px;
+}
+.nav-link{
+    padding-left: 30px;
+    color: black;
+}
+.orange-bg{
+  background-color:  #F0FFF0;
+}
+.logo{
+    width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+}
+
+    
+
+
+notes{
+    width: 500px;
+    
+}
+.notes-1,.notes-2,.notes-3,.notes-4{
+width:100%;
+padding-top: 16px;
+padding-bottom:12px ;
+border-radius: 10px;
+
+
+}
+.notes-1 img,.notes-2 img,.notes-3 img,.notes-4 img{
+   
+    width:50%;
+    
+}
+
+.notes-2{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+
+}
+
+
+    
+
+
+.notes-1,.notes-3,.notes-4{
+background-color: #F8FFFB;
+}
+.card{
+    border:none;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1);
+    width:100%;
+
+    
+}
+    
+
+
+.calenar{
+    width: 100%;
+     
+    
+    
+    
+}
+.calendar img{
+    width: 100%;
+    
+
+}
+
+.blog{
+    width:50%;
+}
+.blog img{
+    width:100%;
+}
+.lorem{
+    text-align: justify;
+}
+.sign-in-bg{
+    background-color: black;
+    
+}
+.sign-in{
+    color: white;
+}
