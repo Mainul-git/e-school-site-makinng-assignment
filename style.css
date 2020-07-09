@@ -1,3 +1,8 @@
+
+
+.body{font-family: 'Poppins', sans-serif;
+
+}
 .container{
     margin-bottom: 100px;
 }
@@ -26,7 +31,9 @@ height: 59px;
 left: 212px;
 top: 30px;
 }
-
+.others img{
+    margin-top: -75px ;
+}
     
 
 
@@ -59,7 +66,7 @@ border-radius: 10px;
 
 
 .notes-1,.notes-3,.notes-4{
-background-color: #F8FFFB;
+background-color:#F1FFFB;
 }
 .card{
     border:none;
@@ -85,18 +92,39 @@ background-color: #F8FFFB;
 }
 
 .blog{
-    width:50%;
+    width:100%
 }
 .blog img{
-    width:100%;
-}
-.lorem{
-    text-align: justify;
-}
-.sign-in-bg{
-    background-color: black;
+    width:80% ;
     
+    padding-left: 100px;
 }
+.blog p{
+    padding-right: 55px;
+    font-weight: 900;
+}
+
+
+.lorem{
+    text-align: initial;
+    font-weight: 900px;
+    width: 100%;
+ 
+}
+   
+    
 .sign-in{
     color: white;
+    background-color: black;
+    padding-top:20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+   
+    
+
+}
+footer{
+    color: #CDCDCD;
+    text-align: center;
+    background-color: black;
 }
